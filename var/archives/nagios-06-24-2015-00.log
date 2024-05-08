@@ -1,0 +1,479 @@
+[1434997800] LOG ROTATION: DAILY
+[1434997800] LOG VERSION: 2.0
+[1434997800] CURRENT HOST STATE: 103.255.103.2;DOWN;SOFT;1;(Host check timed out after 0.00 seconds)
+[1434997800] CURRENT HOST STATE: Limetech-Server;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1434997800] CURRENT HOST STATE: cisco2900.in;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.98 ms
+[1434997800] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1434997800] CURRENT HOST STATE: ns3.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1434997800] CURRENT HOST STATE: wns1.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.15 ms
+[1434997800] CURRENT SERVICE STATE: 103.255.103.2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1434997800] CURRENT SERVICE STATE: 103.255.103.2;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434997800] CURRENT SERVICE STATE: Limetech-Server;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1434997800] CURRENT SERVICE STATE: Limetech-Server;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434997800] CURRENT SERVICE STATE: cisco2900.in;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1434997800] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.02, 0.00
+[1434997800] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1434997800] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 265 bytes in 0.000 second response time
+[1434997800] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.02 ms
+[1434997800] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 17064 MB (89% inode=96%):
+[1434997800] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434997800] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1434997800] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 70 processes with STATE = RSZDT
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;CPU LOAD;OK;HARD;1;OK - load average: 1.12, 1.51, 1.47
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;DISK;OK;HARD;1;DISK OK - free space: / 344153 MB (71% inode=79%):
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;FTP;OK;HARD;1;FTP OK - 0.002 second response time on 103.255.101.13 port 21 [220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 316 bytes in 0.001 second response time
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;IMAP;OK;HARD;1;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;POP3;OK;HARD;1;POP OK - 0.010 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;PROCESS;OK;HARD;1;PROCS OK: 4 processes
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.3% (249752 kB) free!
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;SMTP;OK;HARD;1;SMTP OK - 0.167 sec. response time
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;SWAP;OK;HARD;1;SWAP OK - 100% free (15249 MB out of 15359 MB)
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;USER;OK;HARD;1;USERS OK - 0 users currently logged in
+[1434997800] CURRENT SERVICE STATE: ns3.tld6.net;ZOMBIE;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;C:\ Drive Space;OK;HARD;1;c:\ - total: 100.00 Gb - used: 52.62 Gb (53%) - free 47.38 Gb (47%)
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;CPU Load;OK;HARD;1;CPU Load 1% (5 min average)
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;Explorer;CRITICAL;HARD;3;Explorer.exe: not running
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;Memory Usage;OK;HARD;1;Memory usage: total:3583.64 MB - used: 2227.80 MB (62%) - free: 1355.84 MB (38%)
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;NSClient++ Version;OK;HARD;1;NSClient++ 0,4,1,73 2012-12-17
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;Uptime;OK;HARD;1;System Uptime - 0 day(s) 5 hour(s) 26 minute(s)
+[1434997800] CURRENT SERVICE STATE: wns1.tld6.net;W3SVC;OK;HARD;1;W3SVC: Started
+[1434998503] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (60608 kB) free!
+[1434998503] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (60608 kB) free!
+[1434998503] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (60608 kB) free!
+[1434998503] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (60608 kB) free!
+[1434998503] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (60608 kB) free!
+[1435000270] Auto-save of retention data completed successfully.
+[1435000494] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435000494] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435000494] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435000494] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435000494] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435002700] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.2% (245636 kB) free!
+[1435002700] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.2% (245636 kB) free!
+[1435002700] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.2% (245636 kB) free!
+[1435002700] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.2% (245636 kB) free!
+[1435002700] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.2% (245636 kB) free!
+[1435003870] Auto-save of retention data completed successfully.
+[1435004094] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435004094] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435004094] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435004094] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435004094] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435006894] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.6% (141492 kB) free!
+[1435006894] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.6% (141492 kB) free!
+[1435006894] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.6% (141492 kB) free!
+[1435006894] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.6% (141492 kB) free!
+[1435006894] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.6% (141492 kB) free!
+[1435007470] Auto-save of retention data completed successfully.
+[1435007694] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435007694] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435007694] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435007694] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435007694] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435010494] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.8% (32232 kB) free!
+[1435010494] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.8% (32232 kB) free!
+[1435010494] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.8% (32232 kB) free!
+[1435010494] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.8% (32232 kB) free!
+[1435010494] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.8% (32232 kB) free!
+[1435011070] Auto-save of retention data completed successfully.
+[1435011294] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435011294] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435011294] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435011294] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435011294] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435014094] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (50120 kB) free!
+[1435014094] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (50120 kB) free!
+[1435014094] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (50120 kB) free!
+[1435014094] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (50120 kB) free!
+[1435014094] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (50120 kB) free!
+[1435014670] Auto-save of retention data completed successfully.
+[1435014894] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435014894] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435014894] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435014894] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435014894] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435015894] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 23.8% (944040 kB) free.
+[1435015894] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 23.8% (944040 kB) free.
+[1435015894] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 23.8% (944040 kB) free.
+[1435015894] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 23.8% (944040 kB) free.
+[1435015894] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 23.8% (944040 kB) free.
+[1435015894] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 23.8% (944040 kB) free.
+[1435017694] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;1;WARNING - 19.6% (775392 kB) free!
+[1435017814] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;2;WARNING - 19.4% (768904 kB) free!
+[1435017934] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 19.0% (750804 kB) free!
+[1435017934] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 19.0% (750804 kB) free!
+[1435017934] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 19.0% (750804 kB) free!
+[1435017934] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 19.0% (750804 kB) free!
+[1435017934] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 19.0% (750804 kB) free!
+[1435017934] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 19.0% (750804 kB) free!
+[1435018270] Auto-save of retention data completed successfully.
+[1435018494] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435018494] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435018494] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435018494] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435018494] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435021529] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 7.4% (293576 kB) free!
+[1435021529] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.4% (293576 kB) free!
+[1435021529] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.4% (293576 kB) free!
+[1435021529] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.4% (293576 kB) free!
+[1435021529] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.4% (293576 kB) free!
+[1435021529] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.4% (293576 kB) free!
+[1435021870] Auto-save of retention data completed successfully.
+[1435022094] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435022094] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435022094] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435022094] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435022094] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435025129] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.8% (188972 kB) free!
+[1435025129] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.8% (188972 kB) free!
+[1435025129] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.8% (188972 kB) free!
+[1435025129] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.8% (188972 kB) free!
+[1435025129] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.8% (188972 kB) free!
+[1435025470] Auto-save of retention data completed successfully.
+[1435025694] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435025694] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435025694] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435025694] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435025694] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435028729] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (133912 kB) free!
+[1435028729] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (133912 kB) free!
+[1435028729] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (133912 kB) free!
+[1435028729] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (133912 kB) free!
+[1435028729] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (133912 kB) free!
+[1435029070] Auto-save of retention data completed successfully.
+[1435029294] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435029294] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435029294] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435029294] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435029294] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435032330] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.5% (137872 kB) free!
+[1435032330] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.5% (137872 kB) free!
+[1435032330] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.5% (137872 kB) free!
+[1435032330] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.5% (137872 kB) free!
+[1435032330] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.5% (137872 kB) free!
+[1435032670] Auto-save of retention data completed successfully.
+[1435032894] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435032894] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435032894] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435032894] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435032894] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435036270] Auto-save of retention data completed successfully.
+[1435036529] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.5% (180020 kB) free!
+[1435036529] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.5% (180020 kB) free!
+[1435036529] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.5% (180020 kB) free!
+[1435036529] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.5% (180020 kB) free!
+[1435036529] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.5% (180020 kB) free!
+[1435037093] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435037093] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435037093] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435037093] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435037093] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435039870] Auto-save of retention data completed successfully.
+[1435040129] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.9% (274552 kB) free!
+[1435040129] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.9% (274552 kB) free!
+[1435040129] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.9% (274552 kB) free!
+[1435040129] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.9% (274552 kB) free!
+[1435040129] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.9% (274552 kB) free!
+[1435040693] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435040693] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435040693] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435040693] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435040693] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435041928] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.1% (398288 kB) free!
+[1435041928] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (398288 kB) free!
+[1435041928] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (398288 kB) free!
+[1435041928] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (398288 kB) free!
+[1435041928] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (398288 kB) free!
+[1435041928] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (398288 kB) free!
+[1435042527] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.8% (267952 kB) free!
+[1435042527] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.8% (267952 kB) free!
+[1435042527] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.8% (267952 kB) free!
+[1435042527] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.8% (267952 kB) free!
+[1435042527] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.8% (267952 kB) free!
+[1435042527] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 6.8% (267952 kB) free!
+[1435043470] Auto-save of retention data completed successfully.
+[1435044293] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435044293] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435044293] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435044293] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435044293] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435046725] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.1% (162004 kB) free!
+[1435046725] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.1% (162004 kB) free!
+[1435046725] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.1% (162004 kB) free!
+[1435046725] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.1% (162004 kB) free!
+[1435046725] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.1% (162004 kB) free!
+[1435047070] Auto-save of retention data completed successfully.
+[1435047893] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435047893] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435047893] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435047893] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435047893] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435050325] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (36060 kB) free!
+[1435050325] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (36060 kB) free!
+[1435050325] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (36060 kB) free!
+[1435050325] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (36060 kB) free!
+[1435050325] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (36060 kB) free!
+[1435050675] Auto-save of retention data completed successfully.
+[1435051493] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435051493] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435051493] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435051493] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435051493] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435053925] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.0% (159132 kB) free!
+[1435053925] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.0% (159132 kB) free!
+[1435053925] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.0% (159132 kB) free!
+[1435053925] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.0% (159132 kB) free!
+[1435053925] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.0% (159132 kB) free!
+[1435054270] Auto-save of retention data completed successfully.
+[1435055093] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435055093] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435055093] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435055093] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435055093] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435057525] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.5% (99440 kB) free!
+[1435057525] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.5% (99440 kB) free!
+[1435057525] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.5% (99440 kB) free!
+[1435057525] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.5% (99440 kB) free!
+[1435057525] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.5% (99440 kB) free!
+[1435057870] Auto-save of retention data completed successfully.
+[1435058693] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435058693] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435058693] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435058693] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435058693] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435061125] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 8.1% (319008 kB) free!
+[1435061125] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 8.1% (319008 kB) free!
+[1435061125] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 8.1% (319008 kB) free!
+[1435061125] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 8.1% (319008 kB) free!
+[1435061125] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 8.1% (319008 kB) free!
+[1435061470] Auto-save of retention data completed successfully.
+[1435062293] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435062293] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435062293] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435062293] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435062293] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1435062326] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 28.7% (1137864 kB) free.
+[1435062326] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 28.7% (1137864 kB) free.
+[1435062326] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 28.7% (1137864 kB) free.
+[1435062326] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 28.7% (1137864 kB) free.
+[1435062326] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 28.7% (1137864 kB) free.
+[1435062326] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 28.7% (1137864 kB) free.
+[1435063427] SERVICE ALERT: wns1.tld6.net;Memory Usage;WARNING;SOFT;1;Memory usage: total:3583.64 MB - used: 2877.46 MB (80%) - free: 706.19 MB (20%)
+[1435063493] SERVICE ALERT: wns1.tld6.net;Explorer;OK;HARD;3;explorer.exe: Running
+[1435063493] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1435063493] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1435063493] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1435063493] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1435063493] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1435063547] SERVICE ALERT: wns1.tld6.net;Memory Usage;WARNING;SOFT;2;Memory usage: total:3583.64 MB - used: 2872.12 MB (80%) - free: 711.52 MB (20%)
+[1435063667] SERVICE ALERT: wns1.tld6.net;Memory Usage;WARNING;HARD;3;Memory usage: total:3583.64 MB - used: 2870.97 MB (80%) - free: 712.68 MB (20%)
+[1435063667] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Memory Usage;WARNING;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2870.97 MB (80%) - free: 712.68 MB (20%)
+[1435063667] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Memory Usage;WARNING;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2870.97 MB (80%) - free: 712.68 MB (20%)
+[1435063667] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Memory Usage;WARNING;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2870.97 MB (80%) - free: 712.68 MB (20%)
+[1435063667] SERVICE NOTIFICATION: mali;wns1.tld6.net;Memory Usage;WARNING;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2870.97 MB (80%) - free: 712.68 MB (20%)
+[1435063667] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Memory Usage;WARNING;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2870.97 MB (80%) - free: 712.68 MB (20%)
+[1435064125] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;1;WARNING - 19.6% (777848 kB) free!
+[1435064245] SERVICE ALERT: ns3.tld6.net;RAM;OK;SOFT;2;OK - 22.5% (890136 kB) free.
+[1435064267] SERVICE ALERT: wns1.tld6.net;Memory Usage;OK;HARD;3;Memory usage: total:3583.64 MB - used: 2812.97 MB (78%) - free: 770.67 MB (22%)
+[1435064267] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Memory Usage;OK;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2812.97 MB (78%) - free: 770.67 MB (22%)
+[1435064267] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Memory Usage;OK;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2812.97 MB (78%) - free: 770.67 MB (22%)
+[1435064267] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Memory Usage;OK;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2812.97 MB (78%) - free: 770.67 MB (22%)
+[1435064267] SERVICE NOTIFICATION: mali;wns1.tld6.net;Memory Usage;OK;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2812.97 MB (78%) - free: 770.67 MB (22%)
+[1435064267] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Memory Usage;OK;notify-service-by-email;Memory usage: total:3583.64 MB - used: 2812.97 MB (78%) - free: 770.67 MB (22%)
+[1435064845] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;1;WARNING - 17.6% (696596 kB) free!
+[1435064965] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;2;WARNING - 17.0% (673164 kB) free!
+[1435065070] Auto-save of retention data completed successfully.
+[1435065085] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 15.7% (622504 kB) free!
+[1435065085] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 15.7% (622504 kB) free!
+[1435065085] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 15.7% (622504 kB) free!
+[1435065085] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 15.7% (622504 kB) free!
+[1435065085] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 15.7% (622504 kB) free!
+[1435065085] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 15.7% (622504 kB) free!
+[1435066936] SERVICE ALERT: ns3.tld6.net;SMTP;WARNING;SOFT;1;Invalid SMTP response received from host: 421 Unexpected log failure, please try later
+[1435066996] SERVICE ALERT: ns3.tld6.net;SMTP;CRITICAL;SOFT;2;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067056] SERVICE ALERT: ns3.tld6.net;SMTP;CRITICAL;SOFT;3;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067116] SERVICE ALERT: ns3.tld6.net;SMTP;CRITICAL;HARD;4;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067116] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067116] SERVICE NOTIFICATION: piyush;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067116] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067116] SERVICE NOTIFICATION: mali;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435067116] SERVICE NOTIFICATION: msharma;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435068671] Auto-save of retention data completed successfully.
+[1435068685] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.7% (462280 kB) free!
+[1435068685] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.7% (462280 kB) free!
+[1435068685] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.7% (462280 kB) free!
+[1435068685] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.7% (462280 kB) free!
+[1435068685] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.7% (462280 kB) free!
+[1435069013] SERVICE ALERT: ns3.tld6.net;POP3;CRITICAL;SOFT;1;CRITICAL - Socket timeout after 10 seconds
+[1435069133] SERVICE ALERT: ns3.tld6.net;POP3;CRITICAL;SOFT;2;CRITICAL - Socket timeout after 10 seconds
+[1435069228] SERVICE ALERT: ns3.tld6.net;IMAP;CRITICAL;SOFT;1;CRITICAL - Socket timeout after 10 seconds
+[1435069253] SERVICE ALERT: ns3.tld6.net;POP3;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1435069253] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;POP3;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069253] SERVICE NOTIFICATION: piyush;ns3.tld6.net;POP3;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069253] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;POP3;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069253] SERVICE NOTIFICATION: mali;ns3.tld6.net;POP3;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069253] SERVICE NOTIFICATION: msharma;ns3.tld6.net;POP3;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069348] SERVICE ALERT: ns3.tld6.net;IMAP;CRITICAL;SOFT;2;CRITICAL - Socket timeout after 10 seconds
+[1435069468] SERVICE ALERT: ns3.tld6.net;IMAP;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1435069468] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;IMAP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069468] SERVICE NOTIFICATION: piyush;ns3.tld6.net;IMAP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069468] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;IMAP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069468] SERVICE NOTIFICATION: mali;ns3.tld6.net;IMAP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069468] SERVICE NOTIFICATION: msharma;ns3.tld6.net;IMAP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1435069885] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.6% (379884 kB) free!
+[1435069885] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 9.6% (379884 kB) free!
+[1435069885] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 9.6% (379884 kB) free!
+[1435069885] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 9.6% (379884 kB) free!
+[1435069885] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 9.6% (379884 kB) free!
+[1435069885] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 9.6% (379884 kB) free!
+[1435071014] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435071014] SERVICE NOTIFICATION: piyush;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435071014] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435071014] SERVICE NOTIFICATION: mali;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435071014] SERVICE NOTIFICATION: msharma;ns3.tld6.net;SMTP;CRITICAL;notify-service-by-email;connect to address 103.255.101.13 and port 25: Connection refused
+[1435071625] HOST ALERT: ns3.tld6.net;DOWN;SOFT;1;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071637] SERVICE ALERT: ns3.tld6.net;SSH;CRITICAL;SOFT;1;connect to address 103.255.101.13 and port 2040: No route to host
+[1435071639] HOST ALERT: ns3.tld6.net;DOWN;SOFT;2;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071688] Warning: Return code of 255 for check of service 'RAM' on host 'ns3.tld6.net' was out of bounds.
+[1435071691] HOST ALERT: ns3.tld6.net;DOWN;SOFT;3;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071754] SERVICE ALERT: ns3.tld6.net;SSH;CRITICAL;SOFT;2;connect to address 103.255.101.13 and port 2040: No route to host
+[1435071754] HOST ALERT: ns3.tld6.net;DOWN;SOFT;4;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071780] SERVICE ALERT: ns3.tld6.net;FTP;CRITICAL;SOFT;1;connect to address 103.255.101.13 and port 21: No route to host
+[1435071783] HOST ALERT: ns3.tld6.net;DOWN;SOFT;5;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071840] SERVICE ALERT: ns3.tld6.net;FTP;CRITICAL;SOFT;2;connect to address 103.255.101.13 and port 21: No route to host
+[1435071843] HOST ALERT: ns3.tld6.net;DOWN;SOFT;6;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071864] HOST ALERT: ns3.tld6.net;DOWN;SOFT;7;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071876] SERVICE ALERT: ns3.tld6.net;SSH;CRITICAL;HARD;3;connect to address 103.255.101.13 and port 2040: No route to host
+[1435071879] HOST ALERT: ns3.tld6.net;DOWN;SOFT;8;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071884] SERVICE ALERT: ns3.tld6.net;HTTP;CRITICAL;SOFT;1;connect to address 103.255.101.13 and port 80: No route to host
+[1435071900] SERVICE ALERT: ns3.tld6.net;FTP;CRITICAL;SOFT;3;connect to address 103.255.101.13 and port 21: No route to host
+[1435071903] HOST ALERT: ns3.tld6.net;DOWN;SOFT;9;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071920] SERVICE ALERT: ns3.tld6.net;PING;CRITICAL;SOFT;1;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071920] HOST ALERT: ns3.tld6.net;DOWN;HARD;10;CRITICAL - Host Unreachable (103.255.101.13)
+[1435071944] SERVICE ALERT: ns3.tld6.net;HTTP;CRITICAL;SOFT;2;connect to address 103.255.101.13 and port 80: No route to host
+[1435071959] SERVICE ALERT: ns3.tld6.net;FTP;CRITICAL;HARD;4;connect to address 103.255.101.13 and port 21: No route to host
+[1435071988] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435071988] SERVICE ALERT: ns3.tld6.net;ZOMBIE;CRITICAL;SOFT;1;(Return code of 255 is out of bounds)
+[1435071996] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435071996] SERVICE ALERT: ns3.tld6.net;CPU LOAD;CRITICAL;SOFT;1;(Return code of 255 is out of bounds)
+[1435072004] SERVICE ALERT: ns3.tld6.net;HTTP;CRITICAL;SOFT;3;connect to address 103.255.101.13 and port 80: No route to host
+[1435072024] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435072024] SERVICE ALERT: ns3.tld6.net;USER;CRITICAL;SOFT;1;(Return code of 255 is out of bounds)
+[1435072041] SERVICE ALERT: ns3.tld6.net;PING;CRITICAL;SOFT;2;CRITICAL - Host Unreachable (103.255.101.13)
+[1435072053] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435072053] SERVICE ALERT: ns3.tld6.net;SWAP;CRITICAL;SOFT;1;(Return code of 255 is out of bounds)
+[1435072064] SERVICE ALERT: ns3.tld6.net;HTTP;CRITICAL;HARD;4;connect to address 103.255.101.13 and port 80: No route to host
+[1435072081] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435072081] SERVICE ALERT: ns3.tld6.net;DISK;CRITICAL;SOFT;1;(Return code of 255 is out of bounds)
+[1435072095] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435072095] SERVICE ALERT: ns3.tld6.net;PROCESS;CRITICAL;SOFT;1;(Return code of 255 is out of bounds)
+[1435072108] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435072108] SERVICE ALERT: ns3.tld6.net;ZOMBIE;CRITICAL;SOFT;2;(Return code of 255 is out of bounds)
+[1435072116] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435072116] SERVICE ALERT: ns3.tld6.net;CPU LOAD;CRITICAL;SOFT;2;(Return code of 255 is out of bounds)
+[1435072144] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435072144] SERVICE ALERT: ns3.tld6.net;USER;CRITICAL;SOFT;2;(Return code of 255 is out of bounds)
+[1435072161] SERVICE ALERT: ns3.tld6.net;PING;CRITICAL;HARD;3;CRITICAL - Host Unreachable (103.255.101.13)
+[1435072173] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435072173] SERVICE ALERT: ns3.tld6.net;SWAP;CRITICAL;SOFT;2;(Return code of 255 is out of bounds)
+[1435072201] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435072201] SERVICE ALERT: ns3.tld6.net;DISK;CRITICAL;SOFT;2;(Return code of 255 is out of bounds)
+[1435072215] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435072215] SERVICE ALERT: ns3.tld6.net;PROCESS;CRITICAL;SOFT;2;(Return code of 255 is out of bounds)
+[1435072228] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435072228] SERVICE ALERT: ns3.tld6.net;ZOMBIE;CRITICAL;HARD;3;(Return code of 255 is out of bounds)
+[1435072236] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435072236] SERVICE ALERT: ns3.tld6.net;CPU LOAD;CRITICAL;HARD;3;(Return code of 255 is out of bounds)
+[1435072262] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435072262] SERVICE ALERT: ns3.tld6.net;USER;CRITICAL;HARD;3;(Return code of 255 is out of bounds)
+[1435072270] Auto-save of retention data completed successfully.
+[1435072288] Warning: Return code of 255 for check of service 'RAM' on host 'ns3.tld6.net' was out of bounds.
+[1435072291] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435072291] SERVICE ALERT: ns3.tld6.net;SWAP;CRITICAL;HARD;3;(Return code of 255 is out of bounds)
+[1435072321] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435072321] SERVICE ALERT: ns3.tld6.net;DISK;CRITICAL;HARD;3;(Return code of 255 is out of bounds)
+[1435072335] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435072335] SERVICE ALERT: ns3.tld6.net;PROCESS;CRITICAL;HARD;3;(Return code of 255 is out of bounds)
+[1435072828] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435072836] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435072862] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435072888] Warning: Return code of 255 for check of service 'RAM' on host 'ns3.tld6.net' was out of bounds.
+[1435072891] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435072921] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435072935] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435073428] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435073437] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435073462] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435073488] Warning: Return code of 255 for check of service 'RAM' on host 'ns3.tld6.net' was out of bounds.
+[1435073491] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435073521] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435073535] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435074028] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435074036] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435074062] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435074088] Warning: Return code of 255 for check of service 'RAM' on host 'ns3.tld6.net' was out of bounds.
+[1435074091] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435074121] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435074135] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435074628] Warning: Return code of 255 for check of service 'ZOMBIE' on host 'ns3.tld6.net' was out of bounds.
+[1435074636] Warning: Return code of 255 for check of service 'CPU LOAD' on host 'ns3.tld6.net' was out of bounds.
+[1435074662] Warning: Return code of 255 for check of service 'USER' on host 'ns3.tld6.net' was out of bounds.
+[1435074688] Warning: Return code of 255 for check of service 'RAM' on host 'ns3.tld6.net' was out of bounds.
+[1435074691] Warning: Return code of 255 for check of service 'SWAP' on host 'ns3.tld6.net' was out of bounds.
+[1435074721] Warning: Return code of 255 for check of service 'DISK' on host 'ns3.tld6.net' was out of bounds.
+[1435074735] Warning: Return code of 255 for check of service 'PROCESS' on host 'ns3.tld6.net' was out of bounds.
+[1435075062] SERVICE ALERT: ns3.tld6.net;HTTP;OK;HARD;4;HTTP OK: HTTP/1.1 200 OK - 316 bytes in 0.332 second response time
+[1435075066] HOST ALERT: ns3.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1435075162] SERVICE ALERT: ns3.tld6.net;PING;OK;HARD;3;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1435075216] SERVICE ALERT: ns3.tld6.net;SMTP;OK;HARD;4;SMTP OK - 0.344 sec. response time
+[1435075216] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;SMTP;OK;notify-service-by-email;SMTP OK - 0.344 sec. response time
+[1435075216] SERVICE NOTIFICATION: piyush;ns3.tld6.net;SMTP;OK;notify-service-by-email;SMTP OK - 0.344 sec. response time
+[1435075216] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;SMTP;OK;notify-service-by-email;SMTP OK - 0.344 sec. response time
+[1435075216] SERVICE NOTIFICATION: mali;ns3.tld6.net;SMTP;OK;notify-service-by-email;SMTP OK - 0.344 sec. response time
+[1435075216] SERVICE NOTIFICATION: msharma;ns3.tld6.net;SMTP;OK;notify-service-by-email;SMTP OK - 0.344 sec. response time
+[1435075225] SERVICE ALERT: ns3.tld6.net;ZOMBIE;OK;HARD;3;PROCS OK: 0 processes with STATE = Z
+[1435075233] SERVICE ALERT: ns3.tld6.net;CPU LOAD;OK;HARD;3;OK - load average: 1.25, 0.62, 0.23
+[1435075243] SERVICE ALERT: ns3.tld6.net;POP3;OK;HARD;3;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1435075243] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;POP3;OK;notify-service-by-email;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1435075243] SERVICE NOTIFICATION: piyush;ns3.tld6.net;POP3;OK;notify-service-by-email;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1435075243] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;POP3;OK;notify-service-by-email;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1435075243] SERVICE NOTIFICATION: mali;ns3.tld6.net;POP3;OK;notify-service-by-email;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1435075243] SERVICE NOTIFICATION: msharma;ns3.tld6.net;POP3;OK;notify-service-by-email;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1435075256] SERVICE ALERT: ns3.tld6.net;FTP;OK;HARD;4;FTP OK - 0.002 second response time on 103.255.101.13 port 21 [220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+[1435075261] SERVICE ALERT: ns3.tld6.net;USER;OK;HARD;3;USERS OK - 0 users currently logged in
+[1435075286] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 45.8% (1815844 kB) free.
+[1435075286] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 45.8% (1815844 kB) free.
+[1435075286] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 45.8% (1815844 kB) free.
+[1435075286] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 45.8% (1815844 kB) free.
+[1435075286] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 45.8% (1815844 kB) free.
+[1435075286] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 45.8% (1815844 kB) free.
+[1435075290] SERVICE ALERT: ns3.tld6.net;SWAP;OK;HARD;3;SWAP OK - 100% free (15359 MB out of 15359 MB)
+[1435075318] SERVICE ALERT: ns3.tld6.net;DISK;OK;HARD;3;DISK OK - free space: / 344054 MB (71% inode=79%):
+[1435075332] SERVICE ALERT: ns3.tld6.net;PROCESS;OK;HARD;3;PROCS OK: 4 processes
+[1435075456] SERVICE ALERT: ns3.tld6.net;IMAP;OK;HARD;3;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1435075456] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;IMAP;OK;notify-service-by-email;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1435075456] SERVICE NOTIFICATION: piyush;ns3.tld6.net;IMAP;OK;notify-service-by-email;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1435075456] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;IMAP;OK;notify-service-by-email;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1435075456] SERVICE NOTIFICATION: mali;ns3.tld6.net;IMAP;OK;notify-service-by-email;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1435075456] SERVICE NOTIFICATION: msharma;ns3.tld6.net;IMAP;OK;notify-service-by-email;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1435075473] SERVICE ALERT: ns3.tld6.net;SSH;OK;HARD;3;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1435075871] Auto-save of retention data completed successfully.
+[1435078885] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;1;WARNING - 14.8% (588104 kB) free!
+[1435079005] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;2;WARNING - 15.3% (606856 kB) free!
+[1435079125] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 18.1% (718736 kB) free!
+[1435079125] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 18.1% (718736 kB) free!
+[1435079125] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 18.1% (718736 kB) free!
+[1435079125] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 18.1% (718736 kB) free!
+[1435079125] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 18.1% (718736 kB) free!
+[1435079125] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 18.1% (718736 kB) free!
+[1435079470] Auto-save of retention data completed successfully.
+[1435080325] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.6% (379416 kB) free!
+[1435080325] SERVICE FLAPPING ALERT: ns3.tld6.net;RAM;STARTED; Service appears to have started flapping (21.4% change >= 20.0% threshold)
+[1435080925] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 12.6% (497464 kB) free!
+[1435081525] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 8.7% (346520 kB) free!
+[1435082725] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.5% (414536 kB) free!
+[1435083070] Auto-save of retention data completed successfully.
+[1435083925] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 7.6% (299788 kB) free!

@@ -1,0 +1,32 @@
+***
+***
+# yum install -y wget httpd php gcc glibc glibc-common gd gd-devel make net-snmp unzip
+
+#nagios#
+wget https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.1.1.tar.gz
+
+#Nagios Plugin#
+wget http://nagios-plugins.org/download/nagios-plugins-2.1.1.tar.gz
+# useradd nagios; groupadd nagcmd; usermod -a -G nagcmd nagios
+
+# tar zxvf nagios-plugins*
+# tar zxvf nagios-(version)
+
+cd nagios-4.1.1
+
+./configure --with-command-group=nagcmd 
+
+# make all; make install; make install-init; make install-config; make install-commandmode; make install-webconf 
+
+# cp -R contrib/eventhandlers/ /usr/local/nagios/libexec/; chown -R nagios:nagios /usr/local/nagios/libexec/eventhandlers
+
+/usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg; /etc/init.d/nagios start
+
+# cd nagios-plugins-2.1.1
+
+# ./configure --with-nagios-user=nagios --with-nagios-group=nagios; make; make install 
+
+# touch htpasswd.users
+# htpasswd -b /usr/local/nagios/etc/htpasswd.users nagiosadmin abhishek#1234***
+***
+

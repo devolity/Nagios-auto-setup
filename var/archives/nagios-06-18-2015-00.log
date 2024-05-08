@@ -1,0 +1,408 @@
+[1434479400] LOG ROTATION: DAILY
+[1434479400] LOG VERSION: 2.0
+[1434479400] CURRENT HOST STATE: 103.255.103.2;DOWN;SOFT;1;(Host check timed out after 0.00 seconds)
+[1434479400] CURRENT HOST STATE: Limetech-Server;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1434479400] CURRENT HOST STATE: cisco2900.in;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1434479400] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.02 ms
+[1434479400] CURRENT HOST STATE: ns3.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1434479400] CURRENT HOST STATE: wns1.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1434479400] CURRENT SERVICE STATE: 103.255.103.2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1434479400] CURRENT SERVICE STATE: 103.255.103.2;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434479400] CURRENT SERVICE STATE: Limetech-Server;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1434479400] CURRENT SERVICE STATE: Limetech-Server;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434479400] CURRENT SERVICE STATE: cisco2900.in;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1434479400] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1434479400] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1434479400] CURRENT SERVICE STATE: localhost;HTTP;CRITICAL;HARD;4;connect to address 127.0.0.1 and port 80: Connection refused
+[1434479400] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1434479400] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 17126 MB (90% inode=96%):
+[1434479400] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434479400] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1434479400] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 60 processes with STATE = RSZDT
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;CPU LOAD;OK;HARD;1;OK - load average: 1.58, 1.58, 1.54
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;DISK;OK;HARD;1;DISK OK - free space: / 361097 MB (75% inode=81%):
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;FTP;OK;HARD;1;FTP OK - 0.002 second response time on 103.255.101.13 port 21 [220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 316 bytes in 0.001 second response time
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;IMAP;OK;HARD;1;IMAP OK - 0.011 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;POP3;OK;HARD;1;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;PROCESS;OK;HARD;1;PROCS OK: 4 processes
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.8% (270424 kB) free!
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;SMTP;OK;HARD;1;SMTP OK - 5.610 sec. response time
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;SWAP;OK;HARD;1;SWAP OK - 98% free (15038 MB out of 15359 MB)
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;USER;OK;HARD;1;USERS OK - 0 users currently logged in
+[1434479400] CURRENT SERVICE STATE: ns3.tld6.net;ZOMBIE;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;C:\ Drive Space;OK;HARD;1;c:\ - total: 100.00 Gb - used: 49.32 Gb (49%) - free 50.68 Gb (51%)
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;CPU Load;OK;HARD;1;CPU Load 2% (5 min average)
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;Explorer;CRITICAL;HARD;3;Explorer.exe: not running
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;Memory Usage;OK;HARD;1;Memory usage: total:6143.67 MB - used: 2529.94 MB (41%) - free: 3613.72 MB (59%)
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;NSClient++ Version;OK;HARD;1;NSClient++ 0,4,1,73 2012-12-17
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;Uptime;OK;HARD;1;System Uptime - 0 day(s) 12 hour(s) 5 minute(s)
+[1434479400] CURRENT SERVICE STATE: wns1.tld6.net;W3SVC;OK;HARD;1;W3SVC: Started
+[1434479620] Auto-save of retention data completed successfully.
+[1434479891] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.7% (146492 kB) free!
+[1434479891] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.7% (146492 kB) free!
+[1434479891] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.7% (146492 kB) free!
+[1434479891] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.7% (146492 kB) free!
+[1434479891] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.7% (146492 kB) free!
+[1434480886] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434480886] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434480886] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434480886] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434480886] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434482842] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434482842] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434482842] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434482842] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434482842] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434483220] Auto-save of retention data completed successfully.
+[1434484088] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.6% (301948 kB) free!
+[1434484088] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.6% (301948 kB) free!
+[1434484088] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.6% (301948 kB) free!
+[1434484088] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.6% (301948 kB) free!
+[1434484088] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.6% (301948 kB) free!
+[1434484784] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434484784] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434484784] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434484784] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434484784] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434486442] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434486442] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434486442] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434486442] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434486442] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434486820] Auto-save of retention data completed successfully.
+[1434488281] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (35660 kB) free!
+[1434488281] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (35660 kB) free!
+[1434488281] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (35660 kB) free!
+[1434488281] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (35660 kB) free!
+[1434488281] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.9% (35660 kB) free!
+[1434488384] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434488384] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434488384] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434488384] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434488384] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434490042] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434490042] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434490042] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434490042] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434490042] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434490420] Auto-save of retention data completed successfully.
+[1434491984] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434491984] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434491984] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434491984] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434491984] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434492476] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (51988 kB) free!
+[1434492476] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (51988 kB) free!
+[1434492476] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (51988 kB) free!
+[1434492476] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (51988 kB) free!
+[1434492476] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.3% (51988 kB) free!
+[1434494020] Auto-save of retention data completed successfully.
+[1434494241] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434494241] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434494241] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434494241] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434494241] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434495476] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.7% (424720 kB) free!
+[1434495476] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.7% (424720 kB) free!
+[1434495476] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.7% (424720 kB) free!
+[1434495476] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.7% (424720 kB) free!
+[1434495476] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.7% (424720 kB) free!
+[1434495476] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.7% (424720 kB) free!
+[1434495584] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434495584] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434495584] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434495584] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434495584] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434496076] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 3.9% (155092 kB) free!
+[1434496076] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (155092 kB) free!
+[1434496076] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (155092 kB) free!
+[1434496076] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (155092 kB) free!
+[1434496076] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (155092 kB) free!
+[1434496076] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (155092 kB) free!
+[1434497620] Auto-save of retention data completed successfully.
+[1434497841] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434497841] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434497841] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434497841] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434497841] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434499483] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434499483] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434499483] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434499483] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434499483] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434499676] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171232 kB) free!
+[1434499676] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171232 kB) free!
+[1434499676] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171232 kB) free!
+[1434499676] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171232 kB) free!
+[1434499676] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171232 kB) free!
+[1434501220] Auto-save of retention data completed successfully.
+[1434501441] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434501441] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434501441] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434501441] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434501441] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434503083] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434503083] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434503083] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434503083] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434503083] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434503276] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.7% (68272 kB) free!
+[1434503276] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.7% (68272 kB) free!
+[1434503276] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.7% (68272 kB) free!
+[1434503276] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.7% (68272 kB) free!
+[1434503276] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.7% (68272 kB) free!
+[1434504820] Auto-save of retention data completed successfully.
+[1434505041] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434505041] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434505041] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434505041] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434505041] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434506683] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434506683] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434506683] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434506683] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434506683] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434506876] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.4% (172644 kB) free!
+[1434506876] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.4% (172644 kB) free!
+[1434506876] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.4% (172644 kB) free!
+[1434506876] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.4% (172644 kB) free!
+[1434506876] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.4% (172644 kB) free!
+[1434508420] Auto-save of retention data completed successfully.
+[1434508641] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434508641] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434508641] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434508641] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434508641] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434510283] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434510283] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434510283] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434510283] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434510283] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434510476] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (136284 kB) free!
+[1434510476] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (136284 kB) free!
+[1434510476] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (136284 kB) free!
+[1434510476] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (136284 kB) free!
+[1434510476] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.4% (136284 kB) free!
+[1434512020] Auto-save of retention data completed successfully.
+[1434512241] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434512241] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434512241] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434512241] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434512241] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434514076] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.5% (298956 kB) free!
+[1434514076] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.5% (298956 kB) free!
+[1434514076] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.5% (298956 kB) free!
+[1434514076] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.5% (298956 kB) free!
+[1434514076] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.5% (298956 kB) free!
+[1434514182] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434514182] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434514182] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434514182] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434514182] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434515620] Auto-save of retention data completed successfully.
+[1434515841] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434515841] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434515841] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434515841] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434515841] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434517676] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.4% (213740 kB) free!
+[1434517676] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.4% (213740 kB) free!
+[1434517676] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.4% (213740 kB) free!
+[1434517676] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.4% (213740 kB) free!
+[1434517676] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.4% (213740 kB) free!
+[1434517782] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434517782] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434517782] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434517782] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434517782] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434519220] Auto-save of retention data completed successfully.
+[1434519441] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434519441] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434519441] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434519441] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434519441] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434521276] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (59020 kB) free!
+[1434521276] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (59020 kB) free!
+[1434521276] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (59020 kB) free!
+[1434521276] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (59020 kB) free!
+[1434521276] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 1.5% (59020 kB) free!
+[1434521382] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434521382] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434521382] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434521382] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434521382] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434522821] Auto-save of retention data completed successfully.
+[1434523041] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434523041] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434523041] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434523041] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434523041] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434524877] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.2% (87340 kB) free!
+[1434524877] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.2% (87340 kB) free!
+[1434524877] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.2% (87340 kB) free!
+[1434524877] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.2% (87340 kB) free!
+[1434524877] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 2.2% (87340 kB) free!
+[1434525281] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434525281] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434525281] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434525281] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434525281] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434526420] Auto-save of retention data completed successfully.
+[1434526641] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434526641] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434526641] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434526641] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434526641] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434528476] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 11.9% (472384 kB) free!
+[1434528476] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.9% (472384 kB) free!
+[1434528476] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.9% (472384 kB) free!
+[1434528476] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.9% (472384 kB) free!
+[1434528476] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.9% (472384 kB) free!
+[1434528476] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 11.9% (472384 kB) free!
+[1434528881] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434528881] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434528881] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434528881] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434528881] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434530020] Auto-save of retention data completed successfully.
+[1434530241] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434530241] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434530241] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434530241] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434530241] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1434530841] SERVICE ALERT: wns1.tld6.net;Explorer;OK;HARD;3;explorer.exe: Running
+[1434530841] SERVICE NOTIFICATION: nagiosadmin;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1434530841] SERVICE NOTIFICATION: piyush;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1434530841] SERVICE NOTIFICATION: bhupesh;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1434530841] SERVICE NOTIFICATION: mali;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1434530841] SERVICE NOTIFICATION: msharma;wns1.tld6.net;Explorer;OK;notify-service-by-email;explorer.exe: Running
+[1434530876] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 3.8% (149212 kB) free!
+[1434530876] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.8% (149212 kB) free!
+[1434530876] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.8% (149212 kB) free!
+[1434530876] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.8% (149212 kB) free!
+[1434530876] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.8% (149212 kB) free!
+[1434530876] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.8% (149212 kB) free!
+[1434532780] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434532780] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434532780] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434532780] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434532780] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434533276] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 31.3% (1241848 kB) free.
+[1434533276] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 31.3% (1241848 kB) free.
+[1434533276] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 31.3% (1241848 kB) free.
+[1434533276] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 31.3% (1241848 kB) free.
+[1434533276] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 31.3% (1241848 kB) free.
+[1434533276] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;OK;notify-service-by-email;OK - 31.3% (1241848 kB) free.
+[1434533620] Auto-save of retention data completed successfully.
+[1434535076] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;1;WARNING - 18.8% (746712 kB) free!
+[1434535196] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;2;WARNING - 18.9% (748812 kB) free!
+[1434535316] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 19.4% (769884 kB) free!
+[1434535316] SERVICE FLAPPING ALERT: ns3.tld6.net;RAM;STARTED; Service appears to have started flapping (22.2% change >= 20.0% threshold)
+[1434536380] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434536380] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434536380] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434536380] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434536380] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434537221] Auto-save of retention data completed successfully.
+[1434538916] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 0.7% (27928 kB) free!
+[1434539516] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.9% (431088 kB) free!
+[1434539980] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434539980] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434539980] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434539980] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434539980] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434540116] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 7.3% (288756 kB) free!
+[1434540820] Auto-save of retention data completed successfully.
+[1434543580] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434543580] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434543580] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434543580] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434543580] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434544421] Auto-save of retention data completed successfully.
+[1434545344] Caught SIGTERM, shutting down...
+[1434545344] Successfully shutdown... (PID=924)
+[1434545344] Event broker module 'NERD' deinitialized successfully.
+[3030135162] Nagios 4.0.8 starting... (PID=897)
+[3030135162] Local time is Fri Jan 08 05:42:42 IST 2066
+[3030135162] LOG VERSION: 2.0
+[3030135162] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[3030135162] qh: core query handler registered
+[3030135162] nerd: Channel hostchecks registered successfully
+[3030135162] nerd: Channel servicechecks registered successfully
+[3030135162] nerd: Channel opathchecks registered successfully
+[3030135162] nerd: Fully initialized and ready to rock!
+[3030135162] wproc: Successfully registered manager as @wproc with query handler
+[3030135162] wproc: Registry request: name=Core Worker 902;pid=902
+[3030135162] wproc: Registry request: name=Core Worker 904;pid=904
+[3030135162] wproc: Registry request: name=Core Worker 903;pid=903
+[3030135162] wproc: Registry request: name=Core Worker 905;pid=905
+[3030135162] Warning: Duplicate definition found for service 'Explorer' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 135)
+[3030135162] Warning: Duplicate definition found for service 'W3SVC' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 123)
+[3030135162] Warning: Duplicate definition found for service 'C:\ Drive Space' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 111)
+[3030135162] Warning: Duplicate definition found for service 'Memory Usage' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 99)
+[3030135162] Warning: Duplicate definition found for service 'CPU Load' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 87)
+[3030135162] Warning: Duplicate definition found for service 'Uptime' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 75)
+[3030135162] Warning: Duplicate definition found for service 'NSClient++ Version' on host 'wns1.tld6.net' (config file '/usr/local/nagios/etc/objects/windows.cfg', starting on line 63)
+[3030135162] SERVICE FLAPPING ALERT: ns3.tld6.net;RAM;STARTED; Service appears to have started flapping (23.1% change >= 20.0% threshold)
+[3030135163] Successfully launched command file worker with pid 921
+[3030135167] HOST ALERT: 103.255.103.2;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1434545412] Warning: A system time change of -1595589756 seconds (18467d 11h 22m 36s backwards in time) has been detected.  Compensating...
+[1434545594] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434545594] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434545594] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434545594] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434545594] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434549005] Auto-save of retention data completed successfully.
+[1434549194] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434549194] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434549194] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434549194] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434549194] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434551798] SERVICE FLAPPING ALERT: ns3.tld6.net;RAM;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1434551798] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.1% (203120 kB) free!
+[1434551798] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.1% (203120 kB) free!
+[1434551798] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.1% (203120 kB) free!
+[1434551798] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.1% (203120 kB) free!
+[1434551798] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.1% (203120 kB) free!
+[1434552605] Auto-save of retention data completed successfully.
+[1434552794] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434552794] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434552794] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434552794] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434552794] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434555398] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.7% (27704 kB) free!
+[1434555398] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.7% (27704 kB) free!
+[1434555398] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.7% (27704 kB) free!
+[1434555398] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.7% (27704 kB) free!
+[1434555398] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 0.7% (27704 kB) free!
+[1434556205] Auto-save of retention data completed successfully.
+[1434556394] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434556394] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434556394] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434556394] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434556394] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434558998] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (153612 kB) free!
+[1434558998] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (153612 kB) free!
+[1434558998] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (153612 kB) free!
+[1434558998] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (153612 kB) free!
+[1434558998] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 3.9% (153612 kB) free!
+[1434559805] Auto-save of retention data completed successfully.
+[1434560293] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434560293] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434560293] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434560293] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434560293] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434562598] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171584 kB) free!
+[1434562598] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171584 kB) free!
+[1434562598] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171584 kB) free!
+[1434562598] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171584 kB) free!
+[1434562598] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 4.3% (171584 kB) free!
+[1434563405] Auto-save of retention data completed successfully.
+[1434563893] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434563893] SERVICE NOTIFICATION: piyush;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434563893] SERVICE NOTIFICATION: bhupesh;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434563893] SERVICE NOTIFICATION: mali;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused
+[1434563893] SERVICE NOTIFICATION: msharma;localhost;HTTP;CRITICAL;notify-service-by-email;connect to address 127.0.0.1 and port 80: Connection refused

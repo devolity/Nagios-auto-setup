@@ -1,0 +1,1 @@
+The comprehensive Nagios complete automatic setup installation script, developed by devolity.com, facilitates seamless monitoring of storage and MySQL database servers.

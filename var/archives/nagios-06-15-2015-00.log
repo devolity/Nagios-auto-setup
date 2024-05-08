@@ -1,0 +1,147 @@
+[1434220200] LOG ROTATION: DAILY
+[1434220200] LOG VERSION: 2.0
+[1434220200] CURRENT HOST STATE: 103.255.103.2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1434220200] CURRENT HOST STATE: Limetech-Server;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1434220200] CURRENT HOST STATE: cisco2900.in;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1434220200] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1434220200] CURRENT HOST STATE: ns3.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.18 ms
+[1434220200] CURRENT HOST STATE: wns1.tld6.net;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1434220200] CURRENT SERVICE STATE: 103.255.103.2;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1434220200] CURRENT SERVICE STATE: 103.255.103.2;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434220200] CURRENT SERVICE STATE: Limetech-Server;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1434220200] CURRENT SERVICE STATE: Limetech-Server;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434220200] CURRENT SERVICE STATE: cisco2900.in;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1434220200] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1434220200] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1434220200] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 265 bytes in 0.000 second response time
+[1434220200] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1434220200] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 17168 MB (89% inode=96%):
+[1434220200] CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434220200] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (2047 MB out of 2047 MB)
+[1434220200] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 70 processes with STATE = RSZDT
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;CPU LOAD;OK;HARD;1;OK - load average: 0.16, 0.43, 0.66
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;DISK;OK;HARD;1;DISK OK - free space: / 366407 MB (76% inode=79%):
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;FTP;OK;HARD;1;FTP OK - 0.002 second response time on 103.255.101.13 port 21 [220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 316 bytes in 0.001 second response time
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;IMAP;OK;HARD;1;IMAP OK - 0.001 second response time on 103.255.101.13 port 143 [* OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.]
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;POP3;OK;HARD;1;POP OK - 0.001 second response time on 103.255.101.13 port 110 [+OK Dovecot ready.]
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;PROCESS;OK;HARD;1;PROCS OK: 4 processes
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.9% (163588 kB) free!
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;SMTP;OK;HARD;1;SMTP OK - 0.743 sec. response time
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;SSH;OK;HARD;1;SSH OK - OpenSSH_5.3 (protocol 2.0)
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;SWAP;OK;HARD;1;SWAP OK - 96% free (14652 MB out of 15359 MB)
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;USER;OK;HARD;1;USERS OK - 0 users currently logged in
+[1434220200] CURRENT SERVICE STATE: ns3.tld6.net;ZOMBIE;OK;HARD;1;PROCS OK: 0 processes with STATE = Z
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;C:\ Drive Space;OK;HARD;1;c:\ - total: 100.00 Gb - used: 49.36 Gb (49%) - free 50.64 Gb (51%)
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;CPU Load;OK;HARD;1;CPU Load 0% (5 min average)
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;Explorer;OK;HARD;1;explorer.exe: Running
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;Memory Usage;OK;HARD;1;Memory usage: total:6143.67 MB - used: 2976.53 MB (48%) - free: 3167.13 MB (52%)
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;NSClient++ Version;OK;HARD;1;NSClient++ 0,4,1,73 2012-12-17
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;Uptime;OK;HARD;1;System Uptime - 12 day(s) 18 hour(s) 1 minute(s)
+[1434220200] CURRENT SERVICE STATE: wns1.tld6.net;W3SVC;OK;HARD;1;W3SVC: Started
+[1434221646] SERVICE FLAPPING ALERT: ns3.tld6.net;RAM;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1434221646] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.2% (123808 kB) free!
+[1434221646] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.2% (123808 kB) free!
+[1434221646] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.2% (123808 kB) free!
+[1434221646] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.2% (123808 kB) free!
+[1434221646] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 5.2% (123808 kB) free!
+[1434222611] Auto-save of retention data completed successfully.
+[1434224646] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 14.5% (343072 kB) free!
+[1434224646] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 14.5% (343072 kB) free!
+[1434224646] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 14.5% (343072 kB) free!
+[1434224646] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 14.5% (343072 kB) free!
+[1434224646] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 14.5% (343072 kB) free!
+[1434224646] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 14.5% (343072 kB) free!
+[1434225246] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 7.9% (186088 kB) free!
+[1434225246] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.9% (186088 kB) free!
+[1434225246] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.9% (186088 kB) free!
+[1434225246] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.9% (186088 kB) free!
+[1434225246] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.9% (186088 kB) free!
+[1434225246] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;CRITICAL;notify-service-by-email;CRITICAL - 7.9% (186088 kB) free!
+[1434226211] Auto-save of retention data completed successfully.
+[1434227046] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.1% (240116 kB) free!
+[1434227046] SERVICE NOTIFICATION: nagiosadmin;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (240116 kB) free!
+[1434227046] SERVICE NOTIFICATION: piyush;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (240116 kB) free!
+[1434227046] SERVICE NOTIFICATION: bhupesh;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (240116 kB) free!
+[1434227046] SERVICE NOTIFICATION: mali;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (240116 kB) free!
+[1434227046] SERVICE NOTIFICATION: msharma;ns3.tld6.net;RAM;WARNING;notify-service-by-email;WARNING - 10.1% (240116 kB) free!
+[1434227646] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 8.6% (203224 kB) free!
+[1434227646] SERVICE FLAPPING ALERT: ns3.tld6.net;RAM;STARTED; Service appears to have started flapping (23.7% change >= 20.0% threshold)
+[1434228246] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 11.1% (263596 kB) free!
+[1434229446] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 8.5% (202120 kB) free!
+[1434229811] Auto-save of retention data completed successfully.
+[1434230646] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.3% (242940 kB) free!
+[1434231247] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.1% (121648 kB) free!
+[1434232446] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.7% (254224 kB) free!
+[1434233046] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.3% (149904 kB) free!
+[1434233411] Auto-save of retention data completed successfully.
+[1434237011] Auto-save of retention data completed successfully.
+[1434237846] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.8% (255432 kB) free!
+[1434238446] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.7% (229332 kB) free!
+[1434240611] Auto-save of retention data completed successfully.
+[1434240876] HOST ALERT: ns3.tld6.net;DOWN;SOFT;1;PING CRITICAL - Packet loss = 100%
+[1434240908] HOST ALERT: ns3.tld6.net;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.20 ms
+[1434244211] Auto-save of retention data completed successfully.
+[1434244446] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 12.1% (286832 kB) free!
+[1434245046] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 21.9% (519252 kB) free.
+[1434245646] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;SOFT;1;CRITICAL - 8.9% (209752 kB) free!
+[1434245766] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;SOFT;2;CRITICAL - 5.0% (118352 kB) free!
+[1434245886] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.6% (133652 kB) free!
+[1434247686] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 12.0% (284556 kB) free!
+[1434247811] Auto-save of retention data completed successfully.
+[1434248286] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 8.4% (197964 kB) free!
+[1434250686] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 17.0% (402120 kB) free!
+[1434251286] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.0% (117216 kB) free!
+[1434251411] Auto-save of retention data completed successfully.
+[1434255011] Auto-save of retention data completed successfully.
+[1434256086] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.5% (248144 kB) free!
+[1434256686] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.5% (130188 kB) free!
+[1434257886] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 14.0% (331360 kB) free!
+[1434258486] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 7.3% (173800 kB) free!
+[1434258611] Auto-save of retention data completed successfully.
+[1434259086] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 12.2% (288996 kB) free!
+[1434259686] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.9% (164232 kB) free!
+[1434261486] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 23.1% (547112 kB) free.
+[1434262086] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;SOFT;1;CRITICAL - 6.2% (147324 kB) free!
+[1434262206] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;SOFT;2;CRITICAL - 7.2% (169824 kB) free!
+[1434262211] Auto-save of retention data completed successfully.
+[1434262326] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.1% (120056 kB) free!
+[1434265811] Auto-save of retention data completed successfully.
+[1434266526] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.7% (253200 kB) free!
+[1434267126] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.3% (125580 kB) free!
+[1434269411] Auto-save of retention data completed successfully.
+[1434270126] SERVICE ALERT: ns3.tld6.net;RAM;OK;HARD;3;OK - 42.1% (997624 kB) free.
+[1434270726] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;SOFT;1;WARNING - 15.5% (367912 kB) free!
+[1434270846] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;SOFT;2;CRITICAL - 4.9% (117000 kB) free!
+[1434270966] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 4.9% (116956 kB) free!
+[1434273011] Auto-save of retention data completed successfully.
+[1434276366] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 16.0% (378844 kB) free!
+[1434276611] Auto-save of retention data completed successfully.
+[1434278166] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.1% (215020 kB) free!
+[1434280211] Auto-save of retention data completed successfully.
+[1434283811] Auto-save of retention data completed successfully.
+[1434286566] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 19.4% (458212 kB) free!
+[1434287166] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.2% (123132 kB) free!
+[1434287411] Auto-save of retention data completed successfully.
+[1434288366] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.5% (248812 kB) free!
+[1434288966] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.3% (148680 kB) free!
+[1434289566] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 12.1% (287404 kB) free!
+[1434290766] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 8.5% (202008 kB) free!
+[1434291011] Auto-save of retention data completed successfully.
+[1434291366] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 10.3% (243192 kB) free!
+[1434291966] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.5% (224384 kB) free!
+[1434293766] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 12.1% (285868 kB) free!
+[1434294366] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 6.1% (144448 kB) free!
+[1434294611] Auto-save of retention data completed successfully.
+[1434297366] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 14.1% (334596 kB) free!
+[1434297966] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 7.6% (180872 kB) free!
+[1434298211] Auto-save of retention data completed successfully.
+[1434300966] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 11.9% (280764 kB) free!
+[1434301566] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 5.7% (135588 kB) free!
+[1434301811] Auto-save of retention data completed successfully.
+[1434302166] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 13.5% (318424 kB) free!
+[1434302766] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.1% (215572 kB) free!
+[1434304566] SERVICE ALERT: ns3.tld6.net;RAM;WARNING;HARD;3;WARNING - 11.1% (262884 kB) free!
+[1434305411] Auto-save of retention data completed successfully.
+[1434305766] SERVICE ALERT: ns3.tld6.net;RAM;CRITICAL;HARD;3;CRITICAL - 9.8% (231820 kB) free!
